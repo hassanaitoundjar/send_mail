@@ -1,0 +1,25 @@
+Subject: Welcome to Your Premium Streaming Experience!
+
+Dear {name},
+
+Thank you for your recent purchase. We're thrilled to have you on board. Below you will find your exclusive login credentials and all the necessary details to kickstart your premium streaming journey:
+
+Your Xtream Login Credentials:
+Username: {username}
+Password: {password}
+DNS: {dns}
+Samsung and LG DNS: {samsung_lg_dns}
+
+Host URLs (Choose One Below)
+M3U: {m3u_url}
+
+Get Started
+Introduction: Learn More
+Need Help?
+Feel free to reach out to our support team via WhatsApp:
+
+Contact: {whatsapp_contact}
+Thank you once again for choosing our service. We wish you a delightful streaming experience!
+
+Best Regards,
+IPTV SMARTERS PRO
